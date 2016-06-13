@@ -3,8 +3,8 @@
 %
 % CHAPTER 1: book examples
 %
-%   example131  - Example 1.3.1
-%   example132  - Example 1.3.2
+%   example131  - Example 1.3.1 - Reviewed (Monday, June 13, 2016)
+%   example132  - Example 1.3.2 - Reviewed (Monday, June 13, 2016)
 %   example133  - Example 1.3.3
 %   example141  - Example 1.4.1
 %   example142  - Example 1.4.2
